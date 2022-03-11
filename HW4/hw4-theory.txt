@@ -1,0 +1,5 @@
+1. A->A B->B C->C D->D
+
+2. A->B B->C C->D D->A
+
+3. A->A,D B->B,C C->B,C D->A,B,D
