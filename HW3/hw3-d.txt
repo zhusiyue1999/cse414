@@ -1,0 +1,3 @@
+Advantages of using DBMS as a service in a public cloud is that we can work anywhere as long as we have internet.  Relatively more cost effective rather than just buying a server and getting a database on that.
+
+Disadvantages of using DBMS as a service in a public cloud is difficult to setup and we need internet to access.  Privacy and security breaches are also concerning especially with all the recent news of people\'92s data being leaked.  Since data is left in the care of others, its always concern if data could be lost or any event that may cause the cloud to lose your data.
